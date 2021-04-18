@@ -1,0 +1,16 @@
+[1106/133201.308:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0119/133323.017:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0119/153740.776:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0119/195918.642:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0119/200918.719:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0119/200918.720:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Aayush\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\0a0f0ea8-d533-4023-b2cc-12c5da5e2f3c: The system cannot find the path specified. (0x3)
+[0119/200918.722:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Aayush\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\4488a93e-5fa2-4cfe-97a8-9be4600b6b33: The system cannot find the path specified. (0x3)
+[0119/200918.722:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Aayush\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\66bcbae3-3634-49bf-8e8e-69d6c67e5bb0: The system cannot find the path specified. (0x3)
+[0119/200918.724:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Aayush\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\7542a0a2-5017-448c-bc55-28eb31134280: The system cannot find the path specified. (0x3)
+[0119/200918.724:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Aayush\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\f54e4159-151e-4869-a8f5-711ba5d89121: The system cannot find the path specified. (0x3)
+[0119/200918.724:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0119/200918.724:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0119/200918.725:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0119/201418.660:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0119/202918.663:ERROR:crash_report_database_win.cc(455)] unexpected header
+[0121/132223.369:ERROR:crash_report_database_win.cc(455)] unexpected header
